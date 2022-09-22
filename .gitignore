@@ -39,7 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Data Files
-*.csv
-*.xls
-*.xlsx
-*.matlab
+yellow*.csv
